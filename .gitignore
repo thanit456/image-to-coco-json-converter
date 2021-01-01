@@ -1,0 +1,3 @@
+output/
+.pynb_checkpoints/
+__pycache__/
